@@ -8,7 +8,7 @@
 <h1>Seven Little Pirates</h1>
 <hr />
 <h2>Information about Seven Little Pirates</h2>
-<p>Seven Little Pirates is a little game I made for my Spanish class. We had to do something creative, so I decided to write a small game and ake it open source! Feel free to have a look at the source and modify it to your liking!</p>
+<p>Seven Little Pirates is a little game I made for my Spanish class. We had to do something creative, so I decided to write a small game and make it open source! Feel free to have a look at the source and modify it to your liking!</p>
 <hr />
 <h2>SLP on Android</h2>
 <hr />
