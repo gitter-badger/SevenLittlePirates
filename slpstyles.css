@@ -1,0 +1,52 @@
+body {
+width: 400px;
+margin: 0 auto;
+font-family:Arial;
+background-color:white;
+}
+
+div.container{
+background-color:white;
+width: 400px;
+padding: 25px;
+margin: 0 auto;
+}
+
+h1,h2,h3,p {
+ background-color:white;
+ width: 400px;
+ color:black;
+ font-family:Times New Roman;
+}
+
+h1 {
+ font-size:25pt;
+}
+
+h2 {
+ font-size:24pt;
+}
+
+h3 {
+ font-size:22pt;
+}
+
+p {
+ font-size:21pt;
+}
+
+code {
+ color:black;
+ font-size:21pt;
+}
+
+.highlight-box{
+  background-color:#f0f0f0;
+  padding:5px 15px;
+  border-radius:2px;
+  margin-top:1em;
+}
+
+a {
+ color: black;
+}
