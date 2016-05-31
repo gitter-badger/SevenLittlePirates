@@ -53,3 +53,6 @@ Next, we need to install Git in order to get all the installation files onto our
 <div class="highlight-box">
 <code>sh startSLP.sh</code>
 </div>
+
+
+[![Join the chat at https://gitter.im/al3xv3gas/SevenLittlePirates](https://badges.gitter.im/al3xv3gas/SevenLittlePirates.svg)](https://gitter.im/al3xv3gas/SevenLittlePirates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
