@@ -2,14 +2,13 @@
 <div class="container">
 <head>
 <link rel="stylesheet" type="text/css" href="bavestyles.css">
-<link rel="shortcut icon" href="b.ico" />
 </head>
 <body>
 <hr />
 <h1>Seven Little Pirates</h1>
 <hr />
 <h2>Information about Seven Little Pirates</h2>
-<p></p>
+<p>Seven Little Pirates is a little game I made for my Spanish class. We had to do something creative, so I decided to write a small game and ake it open source! Feel free to have a look at the source and modify it to your liking!</p>
 <hr />
 <h2>SLP on Android</h2>
 <hr />
@@ -36,7 +35,7 @@ Next, we need to install Git in order to get all the installation files onto our
 </div>
 <p>Congrats! You have successfully changed the working directory! Next, clone the files onto your device!</p>
 <div class="highlight-box">
-<code>git clone  https://github.com/<br />al3xv3gas/bave</code>
+<code>git clone  https://github.com/<br />al3xv3gas/SevenLittlePirates.git</code>
 </div>
 <p>Congrats! You have successfully cloned the installation files onto the device. Now we need to change into the installer directory. To do this, execute the command below.</p>
 <div class="highlight-box">
@@ -50,7 +49,7 @@ Next, we need to install Git in order to get all the installation files onto our
 <div class="highlight-box">
 <code>cd $HOME</code>
 </div>
-<p>Now you have successfully installed BAV3. To start the console, execute this command:</p>
+<p>Now you have successfully installed SLP. To start the console, execute this command:</p>
 <div class="highlight-box">
-<code>sh start.sh</code>
+<code>sh startSLP.sh</code>
 </div>
